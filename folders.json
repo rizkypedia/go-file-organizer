@@ -1,0 +1,34 @@
+{
+ "Folders": 
+ [
+    {
+        "FolderName": "Videos",
+        "FileExtensions": ["mp4", "wmv", "avi", "mkv"]
+    },
+    {
+        "FolderName": "Images",
+        "FileExtensions":["jpeg", "gif", "jpg", "png"]
+    },
+    {
+        "FolderName": "Documents",
+        "FileExtensions": ["pdf", "doc", "docx", "kdbx", "txt", "PDF"]
+    },
+    {
+        "FolderName": "DevStuff",
+        "FileExtensions": ["json", "sql", "ts", "php", "yml", "xml"]
+    },
+    {
+        "FolderName": "ArchiveFiles",
+        "FileExtensions": ["zip", "gzip", "tar.gz", "gz", "tar"]
+    },
+    {
+        "FolderName": "SoftwarePackages",
+        "FileExtensions": ["dmg", "pkg"]
+    },
+    {
+        "FolderName": "HTML",
+        "FileExtensions": ["HTML", "html", "Html"]
+    }
+ ]
+
+}
